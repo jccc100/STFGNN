@@ -15,7 +15,7 @@
     "learning_rate": 1e-3,
     "epochs": 200,
     "max_update_factor": 1,
-    "ctx": 3,
+    "ctx": 0,
     "adj_filename": "data/PEMS04/PEMS04.csv",
     "id_filename": null,
     "graph_signal_matrix_filename": "data/PEMS04/PEMS04.npz",
